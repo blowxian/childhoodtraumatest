@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  childhood_trauma:
+    build:
+      context: .
+      args:
+        - NODE_ENV=development
+      target: development
+    command: npm run dev
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - '3003:3000'                                               # 区分于其他分支的端口
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - NODE_ENV=development
+    container_name: childhood_trauma_dev
