@@ -1,7 +1,7 @@
 export const categoryOptions = [
   {
     value: "cosmos_persona",
-    option: "Cosmos Persona",
+    option: "Childhood Trauma",
   },
 ];
 

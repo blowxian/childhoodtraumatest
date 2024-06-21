@@ -21,21 +21,21 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Cosmos Persona Personality Quiz Test | Discover Your Cosmic Identity</title>
+                <title>Childhood Trauma Personality Quiz Test | Discover Your Cosmic Identity</title>
                 <meta
                     name="description"
-                    content="Explore the Cosmos Persona Personality Quiz, a whimsical and unique online test that determines your cosmic identity through engaging scenarios. Find out if you're a Black Hole, Nebula, or Shooting Star!"
+                    content="Explore the Childhood Trauma Personality Quiz, a whimsical and unique online test that determines your cosmic identity through engaging scenarios. Find out if you're a Black Hole, Nebula, or Shooting Star!"
                 />
                 <meta name="keywords"
-                      content="Cosmos Persona, Personality Quiz, Online Test, Space-themed Quiz, Cosmic Identity"/>
+                      content="Childhood Trauma, Personality Quiz, Online Test, Space-themed Quiz, Cosmic Identity"/>
                 <meta name="google-site-verification" content="1vZRCUh1jx4nNHbtKIW-3ReVvjDohuS7VhoycIbLQS4"/>
             </Head>
 
             <header className="bg-gray-800 text-white py-4">
                 <div className="container mx-auto items-center w-full md:w-[90%] lg:w-[70%] max-w-4xl">
-                    <h1 className="text-2xl font-semibold mb-4">Cosmos Persona Personality Quiz Test</h1>
+                    <h1 className="text-2xl font-semibold mb-4">Childhood Trauma Personality Quiz Test</h1>
                     <p>
-                        The Cosmos Persona Personality Quiz is a whimsical and unique online personality test . It has
+                        The Childhood Trauma Personality Quiz is a whimsical and unique online personality test . It has
                         recently taken social media by storm, amassing immense popularity on platforms like Instagram,
                         TikTok, and Reddit.
                     </p>
@@ -58,7 +58,7 @@ export default function Home() {
                     </p>
                     <Image
                         src={"/img/thumbnail_02.png"}
-                        alt={"Cosmos Persona Personality"}
+                        alt={"Childhood Trauma Personality"}
                         width={900}
                         height={303}
                         className="image-wrap"
@@ -69,9 +69,9 @@ export default function Home() {
 
                 <section
                     className="bg-white p-6 shadow-md w-full md:w-[90%] lg:w-[70%] max-w-4xl rounded-md mx-auto">
-                    <h2 className="text-2xl font-semibold mb-4">What is the Cosmos Persona Personality Quiz?</h2>
+                    <h2 className="text-2xl font-semibold mb-4">What is the Childhood Trauma Personality Quiz?</h2>
                     <p className="mb-4">
-                        The Cosmos Persona Personality Quiz is a fresh take on the classic Myers-Briggs Type
+                        The Childhood Trauma Personality Quiz is a fresh take on the classic Myers-Briggs Type
                         Indicator
                         (MBTI), combining personality tests inspired by innate character traits with a celestial
                         twist.
@@ -80,7 +80,7 @@ export default function Home() {
                     <p>
                         Over 12 quirky questions, you encounter strange situations like meeting space cats or a
                         robot.
-                        Your responses determine your "Cosmos Persona" - a celestial archetype reflecting your core
+                        Your responses determine your "Childhood Trauma" - a celestial archetype reflecting your core
                         personality.
                     </p>
                 </section>
@@ -113,9 +113,9 @@ export default function Home() {
 
                 <section
                     className="bg-white p-6 shadow-md w-full md:w-[90%] lg:w-[70%] max-w-4xl rounded-md mx-auto">
-                    <h2 className="text-2xl font-semibold mb-4">How the Cosmos Persona Personality Quiz Works</h2>
+                    <h2 className="text-2xl font-semibold mb-4">How the Childhood Trauma Personality Quiz Works</h2>
                     <p className="mb-4">
-                        The premise of the Cosmos Persona Quiz is simple yet imaginative. It takes the user on a
+                        The premise of the Childhood Trauma Quiz is simple yet imaginative. It takes the user on a
                         journey through a series of 12 questions, where they are presented with various situations
                         and asked how they would react or what they would do in those circumstances.
                     </p>
@@ -123,12 +123,12 @@ export default function Home() {
                         The quiz begins with the user embarking on a bus ride, which quickly takes an unexpected turn
                         as the bus enters a mysterious tunnel, leading to encounters with space cats, a robot, and even
                         a giant vacuum cleaner. The user's responses to these quirky and imaginative scenarios are
-                        analyzed to determine their "Cosmos Persona," which reflects their core personality traits,
+                        analyzed to determine their "Childhood Trauma," which reflects their core personality traits,
                         strengths, weaknesses, and compatibility with others.
                     </p>
                     <Image
                         src={"/img/thumbnail_03.png"}
-                        alt={"Cosmos Persona Personality"}
+                        alt={"Childhood Trauma Personality"}
                         width={900}
                         height={610}
                         className="image-wrap"
@@ -139,11 +139,11 @@ export default function Home() {
 
                 <section
                     className="bg-white p-6 shadow-md w-full md:w-[90%] lg:w-[70%] max-w-4xl rounded-md mx-auto">
-                    <h2 className="text-2xl font-semibold mb-4">Who Created the Cosmos Persona Personality
+                    <h2 className="text-2xl font-semibold mb-4">Who Created the Childhood Trauma Personality
                         Quiz?</h2>
                     <p className="mb-4">
                         Warisa "I-see" Jaidee, a Thai artist popular on Instagram, is the creative genius behind the
-                        viral Cosmos Persona Personality Quiz. Known by the pen name Izon Falzo, Jaidee has taken social
+                        viral Childhood Trauma Personality Quiz. Known by the pen name Izon Falzo, Jaidee has taken social
                         media by storm with his cosmic, space-themed adventure. Utilizing his talents in graphic design
                         and imaginative storytelling, Warisa "I-see" Jaidee presents personality insights in a unique
                         and captivating way.
@@ -164,13 +164,13 @@ export default function Home() {
                     <h2 className="text-2xl font-semibold mb-4">What are the Possible Cosmic Personas in the
                         Quiz?</h2>
                     <p className="mb-4">
-                        The main 12 possible cosmic personas or personality types in the Cosmos Persona Personality
+                        The main 12 possible cosmic personas or personality types in the Childhood Trauma Personality
                         Quiz
                         are:
                     </p>
                     <Image
                         src={"/img/thumbnail_04.png"}
-                        alt={"Cosmos Persona Personality"}
+                        alt={"Childhood Trauma Personality"}
                         width={840}
                         height={1138}
                         className="image-wrap"
@@ -285,10 +285,10 @@ export default function Home() {
 
                 <section
                     className="bg-white p-6 shadow-md w-full md:w-[90%] lg:w-[70%] max-w-4xl rounded-md mx-auto">
-                    <h2 className="text-2xl font-semibold mb-4">How Accurate are the Results of the Cosmos Persona
+                    <h2 className="text-2xl font-semibold mb-4">How Accurate are the Results of the Childhood Trauma
                         Quiz?</h2>
                     <p className="mb-4">
-                        The Cosmos Persona Quiz has gained widespread popularity on social media, with users sharing
+                        The Childhood Trauma Quiz has gained widespread popularity on social media, with users sharing
                         their results and expressing surprise at the accuracy of the personality descriptions. While
                         its
                         accuracy is subjective, it offers a unique and visually appealing way for individuals to

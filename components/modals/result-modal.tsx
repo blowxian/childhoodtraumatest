@@ -94,7 +94,7 @@ const ResultModal = () => {
             <DialogContent>
                 <DialogHeader>
                     <DialogTitle className="text-center text-xl md:text-2xl">
-                        Cosmos Persona Personality
+                        Childhood Trauma Personality
                     </DialogTitle>
                 </DialogHeader>
                 <DialogDescription>
@@ -135,21 +135,21 @@ const ResultModal = () => {
                                 <div className="flex mt-4">
                                     <FacebookShareButton
                                         url={'https://cosmospersona.net'}
-                                        title={'Cosmos Persona Personality Quiz'}
+                                        title={'Childhood Trauma Personality Quiz'}
                                         className="mr-2 mt-3 md:mt-5"
                                     >
                                         <FacebookIcon size={32} round />
                                     </FacebookShareButton>
                                     <TwitterShareButton
                                         url={'https://cosmospersona.net'}
-                                        title={'Cosmos Persona Personality Quiz'}
+                                        title={'Childhood Trauma Personality Quiz'}
                                         className="mr-2 mt-3 md:mt-5"
                                     >
                                         <TwitterIcon size={32} round />
                                     </TwitterShareButton>
                                     <LinkedinShareButton
                                         url={'https://cosmospersona.net'}
-                                        title={'Cosmos Persona Personality Quiz'}
+                                        title={'Childhood Trauma Personality Quiz'}
                                         className="mr-6 mt-3 md:mt-5"
                                     >
                                         <LinkedinIcon size={32} round />

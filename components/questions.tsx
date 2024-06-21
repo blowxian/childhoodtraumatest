@@ -184,7 +184,7 @@ const Questions: React.FC<Props> = ({questions}) => {
             <div className="bg-white p-6 shadow-md w-full md:w-[90%] lg:w-[70%] max-w-4xl rounded-md mx-auto">
                 {!quizStarted ? (
                     <div className="flex flex-col items-center justify-center h-full">
-                        <h2 className="text-2xl font-semibold mb-4">Welcome to Cosmos Persona Profile Test</h2>
+                        <h2 className="text-2xl font-semibold mb-4">Welcome to Childhood Trauma Profile Test</h2>
                         <Separator className="mb-3"/>
                         <div
                             className="w-full min-h-[50vh] my-2 flex justify-center items-center bg-custom-bg bg-contain bg-center bg-no-repeat">
@@ -197,7 +197,7 @@ const Questions: React.FC<Props> = ({questions}) => {
                     </div>
                 ) : (
                     <>
-                        <h2 className="text-2xl font-semibold mb-4 text-center">Cosmos Persona Profile Test</h2>
+                        <h2 className="text-2xl font-semibold mb-4 text-center">Childhood Trauma Profile Test</h2>
                         <Separator className="mb-3"/>
                         <Progress value={progressValue}/>
                         <div className="flex flex-col min-h-[50vh] py-10 px-3 md:px-5 gap-4 w-full">
